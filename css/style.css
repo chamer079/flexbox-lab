@@ -86,16 +86,15 @@
     background-color: white;
     padding: 32px 72px;
     display: flex;
-    justify-content: center;
     flex-flow: row wrap;
+    justify-content: center;
   }
 
   .card {
-    border: solid 5px red;
+    border: solid 3px red;
     display: flex;
     flex-direction: column;
-    /* justify-content: space-around; */
-}
+  }
   
   nav button {
     background-color: #ea4c89;
