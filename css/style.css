@@ -87,11 +87,10 @@
     padding: 32px 72px;
     display: flex;
     flex-flow: row wrap;
-    justify-content: center;
+    justify-content: space-between;
   }
 
   .card {
-    border: solid 3px red;
     display: flex;
     flex-direction: column;
   }
